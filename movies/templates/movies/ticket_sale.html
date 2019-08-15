@@ -1,0 +1,48 @@
+{% extends 'movies/base.html' %}
+{% block title %}Ticket Details{% endblock %}
+
+{% block body %}
+<div class="page_description">
+	<h1><strong>Reservation Details</strong></h1>
+</div>
+<div class="container">
+<br>
+<h1><strong>Movie - {{movie.title}}</strong></h1>
+<div class="movie-info">
+    <dl>
+        <table class="movie-info" border="2" cellpadding="8">
+         <caption></caption>
+         <tr>
+            <td><h4><img src="{{movie.movie_poster_image.url}}" height = "420"></h4></td>
+            <td><h5>Customer: {{name}}</h5>
+				<h5>Email: {{email}}</h5>
+                {% if num_child > 0  %}
+                    <br><p>Child Tickets: {{num_child}} ($5.00 Each)</p>
+                {% endif %}
+                {% if num_adult > 0  %}
+                    <p>Adult Tickets: {{num_adult}} ($10.00 Each)</p>
+                {% endif %} 
+                {% if num_senior > 0  %}
+                    <p>Senior Tickets: {{num_senior}} ($5.50 Each)</p>
+                {% endif %}    
+				{% if num_student > 0  %}
+                    <p>Student Tickets: {{num_student}} ($8.00 Each)</p>
+                {% endif %}
+				{% if num_matinee > 0  %}
+                    <p>Matinee Tickets: {{num_matinee}} ($4.50 Each)</p>
+                {% endif %}
+				<p><h2><br>Total: ${{total|floatformat:2}}</h2></p>
+        </td>  
+      </tr>
+    </table> 
+  </dl>
+    
+{% if error_message %}
+  <p><strong>{{error_message}}</strong></p>
+{% endif %}
+
+<button><a href= "{% url 'movies:reservation_confirm' %}"> Confirm Reservation </a></button>
+
+</div>
+
+{% endblock %}

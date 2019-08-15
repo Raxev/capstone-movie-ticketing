@@ -1,0 +1,17 @@
+{% extends 'movies/base.html' %}
+{% block title %}Ticket Details{% endblock %}
+
+{% block body %}
+<div class="container">
+<!--<img src="{{movie.movie_poster_image.url}}" height = "420">-->
+<div class="movie-info">
+
+    <a href="{% url 'movies:movie_detail' movie.id %}">Buy another ticket?</a> 
+	
+{% if error_message %}
+  <p><strong>{{error_message}}</strong></p>
+{% endif %}
+
+</div>
+
+{% endblock %}

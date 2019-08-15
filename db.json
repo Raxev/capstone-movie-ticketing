@@ -1,0 +1,3871 @@
+[{
+	"model": "movies.movie",
+	"pk": 1,
+	"fields": {
+		"title": "Alita: Battle Angel",
+		"movie_poster_image": "posters/AlitaBattleAngel.jpg",
+		"release_date": "2019-02-14",
+		"director": "Robert Rodriguez",
+		"rating": "PG-13",
+		"genre": "Science Fiction, Adventure, Action, Fantasy",
+		"description": "Set several centuries in the future, the abandoned Alita is found in the scrapyard of Iron City by Ido, a compassionate cyber-doctor who takes the unconscious cyborg Alita to his clinic. When Alita awakens, she has no memory of who she is, nor does she have any recognition of the world she finds herself in. As Alita learns to navigate her new life and the treacherous streets of Iron City, Ido tries to shield her from her mysterious past."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 2,
+	"fields": {
+		"title": "The LEGO Movie 2: The Second Part",
+		"movie_poster_image": "posters/TheLEGOMovie2TheSecondPart.jpg",
+		"release_date": "2019-02-08",
+		"director": "Mike Mitchell",
+		"rating": "PG",
+		"genre": "Children, Comedy, Adventure, Action, Animated",
+		"description": "The citizens of Bricksburg face a dangerous new threat when LEGO DUPLO invaders from outer space start to wreck everything in their path. The battle to defeat the enemy and restore harmony to the LEGO universe takes Emmet, Lucy, Batman and the rest of their friends to faraway, unexplored worlds that test their courage and creativity."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 3,
+	"fields": {
+		"title": "Fighting With My Family",
+		"movie_poster_image": "posters/FightingWithMyFamily.jpg",
+		"release_date": "2019-02-22",
+		"director": "Stephen Merchant",
+		"rating": "PG-13",
+		"genre": "Comedy",
+		"description": "Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige's journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 4,
+	"fields": {
+		"title": "Isn't It Romantic",
+		"movie_poster_image": "posters/IsntItRomantic.jpg",
+		"release_date": "2019-02-13",
+		"director": "Todd Strauss-Schulson",
+		"rating": "PG-13",
+		"genre": "Romantic Comedy, Fantasy",
+		"description": "Natalie is a New York architect who works hard to get noticed at her job, but is more likely to deliver coffee and bagels than design the city's next skyscraper. Things go from bad to weird when she gets knocked unconscious during a subway mugging and magically wakes up to find herself in an alternate universe. Always cynical about love, Natalie's worst nightmare soon comes true when she suddenly discovers that she's playing the leading lady in a real-life romantic comedy."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 5,
+	"fields": {
+		"title": "What Men Want",
+		"movie_poster_image": "posters/WhatMenWant.jpg",
+		"release_date": "2019-02-08",
+		"director": "Adam ShankMan",
+		"rating": "R",
+		"genre": "Romantic Comedy, Fantasy",
+		"description": "Passed up for a well-deserved promotion, sports agent Ali Davis wonders what else she needs to do to succeed in a man's world. Hoping to find answers from a psychic, Ali drinks a weird concoction that suddenly allows her to hear what men are thinking. Using her newfound ability, Ali starts to turn the tables on her obnoxious male colleagues while racing to sign the next basketball superstar."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 6,
+	"fields": {
+		"title": "Happy Death Day 2U",
+		"movie_poster_image": "posters/HappyDeathDay2U.jpg",
+		"release_date": "2019-02-13",
+		"director": "Christopher Landon",
+		"rating": "PG-13",
+		"genre": "Horror, Thriller, Dark Comedy",
+		"description": "Stuck in a time loop, college student Tree Gelbman must die over and over again to save her friends from a psychotic masked killer."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 7,
+	"fields": {
+		"title": "Cold Pursuit",
+		"movie_poster_image": "posters/ColdPursuit.jpg",
+		"release_date": "2019-02-08",
+		"director": "Hans Petter Moland",
+		"rating": "R",
+		"genre": "Thriller, Dark Comedy",
+		"description": "Nels Coxman's quiet life as a snowplow driver comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge against a psychotic drug lord named Viking and his sleazy henchmen. Transformed from upstanding citizen to coldblooded vigilante, Coxman unwittingly sets off a chain of events that includes a kidnapping, a series of deadly misunderstandings and a turf war between Viking and a rival boss."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 8,
+	"fields": {
+		"title": "The Upside",
+		"movie_poster_image": "posters/TheUpside.jpg",
+		"release_date": "2019-01-11",
+		"director": "Neil Burger",
+		"rating": "PG-13",
+		"genre": "Comedy Drama",
+		"description": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom as Dell and Phillip rediscover the joy of living life to the fullest."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 9,
+	"fields": {
+		"title": "Glass",
+		"movie_poster_image": "posters/Glass.jpg",
+		"release_date": "2019-01-18",
+		"director": "M. Night Shyamalan",
+		"rating": "PG-13",
+		"genre": "Thriller",
+		"description": "David Dunn tries to stay one step ahead of the law while delivering vigilante justice on the streets of Philadelphia. His special talents soon put him on a collision course with the Beast -- the psychotic madman who has superhuman strength and 23 distinct personalities. Their epic showdown leads them to an encounter with the mysterious Elijah Price, the criminal mastermind who holds critical secrets for both men."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 10,
+	"fields": {
+		"title": "How to Train Your Dragon: The Hidden World",
+		"movie_poster_image": "posters/HowToTrainYourDragonTheHiddenWorld.jpg",
+		"release_date": "2019-02-22",
+		"director": "Dean DeBlois",
+		"rating": "PG",
+		"genre": "Children, Fantasy, Adventure, Comedy, Animated",
+		"description": "All seems well on the island of Berk as Vikings and dragons live together in peace and harmony. Now a Viking leader, Hiccup finds himself increasingly attracted to Astrid, while his beloved dragon Toothless meets an enchanting creature who captures his eye. When the evil Grimmel launches a devious plan to wipe out all the dragons, Hiccup must unite both clans to find Caldera -- a hidden land that holds the key to saving Toothless and his flying friends."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 11,
+	"fields": {
+		"title": "Bohemian Rhapsody",
+		"movie_poster_image": "posters/BohemianRhapsody.jpg",
+		"release_date": "2018-11-02",
+		"director": "Bryan Singer",
+		"rating": "PG-13",
+		"genre": "Biography, Historical Drama, Music",
+		"description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Surrounded by darker influences, Mercury decides to leave Queen years later to pursue a solo career. Diagnosed with AIDS in the 1980s, the flamboyant frontman reunites with the group for the benefit concert Live Aid -- leading the band in one of the greatest performances in rock history."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 12,
+	"fields": {
+		"title": "Green Book",
+		"movie_poster_image": "posters/GreenBook.jpg",
+		"release_date": "2018-02-21",
+		"director": "Peter Farrelly",
+		"rating": "PG-13",
+		"genre": "Comedy Drama",
+		"description": "Dr. Don Shirley is a world-class African-American pianist who's about to embark on a concert tour in the Deep South in 1962. In need of a driver and protection, Shirley recruits Tony Lip, a tough-talking bouncer from an Italian-American neighborhood in the Bronx. Despite their differences, the two men soon develop an unexpected bond while confronting racism and danger in an era of segregation."
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 1,
+	"fields": {
+		"seat_label": "A1",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 2,
+	"fields": {
+		"seat_label": "A2",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 3,
+	"fields": {
+		"seat_label": "A3",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 4,
+	"fields": {
+		"seat_label": "A4",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 5,
+	"fields": {
+		"seat_label": "A5",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 6,
+	"fields": {
+		"seat_label": "A6",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 7,
+	"fields": {
+		"seat_label": "A7",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 8,
+	"fields": {
+		"seat_label": "A8",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 9,
+	"fields": {
+		"seat_label": "A9",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 10,
+	"fields": {
+		"seat_label": "A10",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 11,
+	"fields": {
+		"seat_label": "B1",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 12,
+	"fields": {
+		"seat_label": "B2",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 13,
+	"fields": {
+		"seat_label": "B3",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 14,
+	"fields": {
+		"seat_label": "B4",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 15,
+	"fields": {
+		"seat_label": "B5",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 16,
+	"fields": {
+		"seat_label": "B6",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 17,
+	"fields": {
+		"seat_label": "B7",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 18,
+	"fields": {
+		"seat_label": "B8",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 19,
+	"fields": {
+		"seat_label": "B9",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 20,
+	"fields": {
+		"seat_label": "B10",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 21,
+	"fields": {
+		"seat_label": "C1",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 22,
+	"fields": {
+		"seat_label": "C2",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 23,
+	"fields": {
+		"seat_label": "C3",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 24,
+	"fields": {
+		"seat_label": "C4",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 25,
+	"fields": {
+		"seat_label": "C5",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 26,
+	"fields": {
+		"seat_label": "C6",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 27,
+	"fields": {
+		"seat_label": "C7",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 28,
+	"fields": {
+		"seat_label": "C8",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 29,
+	"fields": {
+		"seat_label": "C9",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 30,
+	"fields": {
+		"seat_label": "C10",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 31,
+	"fields": {
+		"seat_label": "D1",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 32,
+	"fields": {
+		"seat_label": "D2",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 33,
+	"fields": {
+		"seat_label": "D3",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 34,
+	"fields": {
+		"seat_label": "D4",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 35,
+	"fields": {
+		"seat_label": "D5",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 36,
+	"fields": {
+		"seat_label": "D6",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 37,
+	"fields": {
+		"seat_label": "D7",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 38,
+	"fields": {
+		"seat_label": "D8",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 39,
+	"fields": {
+		"seat_label": "D9",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 40,
+	"fields": {
+		"seat_label": "D10",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 41,
+	"fields": {
+		"seat_label": "E1",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 42,
+	"fields": {
+		"seat_label": "E2",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 43,
+	"fields": {
+		"seat_label": "E3",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 44,
+	"fields": {
+		"seat_label": "E4",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 45,
+	"fields": {
+		"seat_label": "E5",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 46,
+	"fields": {
+		"seat_label": "E6",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 47,
+	"fields": {
+		"seat_label": "E7",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 48,
+	"fields": {
+		"seat_label": "E8",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 49,
+	"fields": {
+		"seat_label": "E9",
+		"available": true
+	}
+},
+{
+	"model": "movies.seat",
+	"pk": 50,
+	"fields": {
+		"seat_label": "E10",
+		"available": true
+	}
+},
+{
+	"model": "movies.auditorium",
+	"pk": 1,
+	"fields": {
+		"auditorium_name": "Depp"
+	}
+},
+{
+	"model": "movies.auditorium",
+	"pk": 2,
+	"fields": {
+		"auditorium_name": "Lawrence"
+	}
+},
+{
+	"model": "movies.auditorium",
+	"pk": 3,
+	"fields": {
+		"auditorium_name": "Allen"
+	}
+},
+{
+	"model": "movies.auditorium",
+	"pk": 4,
+	"fields": {
+		"auditorium_name": "Hepburn"
+	}
+},
+{
+	"model": "movies.auditorium",
+	"pk": 5,
+	"fields": {
+		"auditorium_name": "Washington"
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 1,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 1
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 2,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 2
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 3,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 3
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 4,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 4
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 5,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 5
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 6,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 6
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 7,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 7
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 8,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 8
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 9,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 9
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 10,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 10
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 11,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 11
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 12,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 12
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 13,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 13
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 14,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 14
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 15,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 15
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 16,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 16
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 17,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 17
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 18,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 18
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 19,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 19
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 20,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 20
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 21,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 21
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 22,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 22
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 23,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 23
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 24,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 24
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 25,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 25
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 26,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 26
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 27,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 27
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 28,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 28
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 29,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 29
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 30,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 30
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 31,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 31
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 32,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 32
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 33,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 33
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 34,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 34
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 35,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 35
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 36,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 36
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 37,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 37
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 38,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 38
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 39,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 39
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 40,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 40
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 41,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 41
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 42,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 42
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 43,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 43
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 44,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 44
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 45,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 45
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 46,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 46
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 47,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 47
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 48,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 48
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 49,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 49
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 50,
+	"fields": {
+		"auditorium_id": 1,
+		"seat_id": 50
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 51,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 1
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 52,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 2
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 53,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 3
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 54,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 4
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 55,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 5
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 56,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 6
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 57,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 7
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 58,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 8
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 59,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 9
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 60,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 10
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 61,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 11
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 62,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 12
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 63,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 13
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 64,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 14
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 65,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 15
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 66,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 16
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 67,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 17
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 68,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 18
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 69,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 19
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 70,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 20
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 71,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 21
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 72,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 22
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 73,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 23
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 74,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 24
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 75,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 25
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 76,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 26
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 77,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 27
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 78,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 28
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 79,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 29
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 80,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 30
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 81,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 31
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 82,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 32
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 83,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 33
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 84,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 34
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 85,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 35
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 86,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 36
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 87,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 37
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 88,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 38
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 89,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 39
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 90,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 40
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 91,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 41
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 92,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 42
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 93,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 43
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 94,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 44
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 95,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 45
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 96,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 46
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 97,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 47
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 98,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 48
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 99,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 49
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 100,
+	"fields": {
+		"auditorium_id": 2,
+		"seat_id": 50
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 101,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 1
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 102,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 2
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 103,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 3
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 104,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 4
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 105,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 5
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 106,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 6
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 107,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 7
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 108,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 8
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 109,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 9
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 110,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 10
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 111,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 11
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 112,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 12
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 113,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 13
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 114,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 14
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 115,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 15
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 116,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 16
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 117,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 17
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 118,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 18
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 119,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 19
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 120,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 20
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 121,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 21
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 122,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 22
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 123,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 23
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 124,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 24
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 125,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 25
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 126,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 26
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 127,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 27
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 128,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 28
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 129,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 29
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 130,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 30
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 131,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 31
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 132,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 32
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 133,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 33
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 134,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 34
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 135,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 35
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 136,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 36
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 137,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 37
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 138,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 38
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 139,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 39
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 140,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 40
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 141,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 41
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 142,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 42
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 143,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 43
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 144,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 44
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 145,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 45
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 146,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 46
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 147,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 47
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 148,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 48
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 149,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 49
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 150,
+	"fields": {
+		"auditorium_id": 3,
+		"seat_id": 50
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 151,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 1
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 152,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 2
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 153,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 3
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 154,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 4
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 155,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 5
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 156,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 6
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 157,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 7
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 158,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 8
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 159,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 9
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 160,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 10
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 161,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 11
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 162,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 12
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 163,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 13
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 164,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 14
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 165,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 15
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 166,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 16
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 167,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 17
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 168,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 18
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 169,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 19
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 170,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 20
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 171,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 21
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 172,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 22
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 173,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 23
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 174,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 24
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 175,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 25
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 176,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 26
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 177,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 27
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 178,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 28
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 179,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 29
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 180,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 30
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 181,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 31
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 182,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 32
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 183,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 33
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 184,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 34
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 185,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 35
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 186,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 36
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 187,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 37
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 188,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 38
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 189,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 39
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 190,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 40
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 191,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 41
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 192,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 42
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 193,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 43
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 194,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 44
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 195,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 45
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 196,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 46
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 197,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 47
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 198,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 48
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 199,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 49
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 200,
+	"fields": {
+		"auditorium_id": 4,
+		"seat_id": 50
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 201,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 1
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 202,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 2
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 203,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 3
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 204,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 4
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 205,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 5
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 206,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 6
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 207,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 7
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 208,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 8
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 209,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 9
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 210,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 10
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 211,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 11
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 212,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 12
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 213,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 13
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 214,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 14
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 215,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 15
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 216,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 16
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 217,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 17
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 218,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 18
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 219,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 19
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 220,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 20
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 221,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 21
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 222,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 22
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 223,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 23
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 224,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 24
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 225,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 25
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 226,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 26
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 227,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 27
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 228,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 28
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 229,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 29
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 230,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 30
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 231,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 31
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 232,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 32
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 233,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 33
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 234,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 34
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 235,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 35
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 236,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 36
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 237,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 37
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 238,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 38
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 239,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 39
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 240,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 40
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 241,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 41
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 242,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 42
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 243,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 43
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 244,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 44
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 245,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 45
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 246,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 46
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 247,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 47
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 248,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 48
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 249,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 49
+	}
+},
+{
+	"model": "movies.auditoriumseat",
+	"pk": 250,
+	"fields": {
+		"auditorium_id": 5,
+		"seat_id": 50
+	}
+},
+{
+	"model": "movies.movietime",
+	"pk": 1,
+	"fields": {
+		"movie_time": "00:00:00"
+	}
+},
+{
+	"model": "movies.movietime",
+	"pk": 2,
+	"fields": {
+		"movie_time": "12:00:00"
+	}
+},
+{
+	"model": "movies.movietime",
+	"pk": 3,
+	"fields": {
+		"movie_time": "18:00:00"
+	}
+},
+{
+	"model": "movies.movietime",
+	"pk": 4,
+	"fields": {
+		"movie_time": "20:00:00"
+	}
+},
+{
+	"model": "movies.movietime",
+	"pk": 6,
+	"fields": {
+		"movie_time": "17:15:00"
+	}
+},
+{
+	"model": "movies.screening",
+	"pk": 1,
+	"fields": {
+		"movie": 7,
+		"auditorium": 5,
+		"start_time": 4
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 1,
+	"fields": {
+		"type": "Child",
+		"price": "5.00"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 2,
+	"fields": {
+		"type": "Adult",
+		"price": "10.00"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 3,
+	"fields": {
+		"type": "Senior",
+		"price": "5.50"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 4,
+	"fields": {
+		"type": "Student",
+		"price": "8.00"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 5,
+	"fields": {
+		"type": "Matinee",
+		"price": "4.50"
+	}
+},
+{
+	"model": "movies.ticket",
+	"pk": 1,
+	"fields": {
+		"screening_id": 1,
+		"seat_id": 1,
+		"price": 2,
+		"choice": "0"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 1,
+	"fields": {
+		"app_label": "admin",
+		"model": "logentry"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 2,
+	"fields": {
+		"app_label": "auth",
+		"model": "permission"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 3,
+	"fields": {
+		"app_label": "auth",
+		"model": "group"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 4,
+	"fields": {
+		"app_label": "auth",
+		"model": "user"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 5,
+	"fields": {
+		"app_label": "contenttypes",
+		"model": "contenttype"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 6,
+	"fields": {
+		"app_label": "sessions",
+		"model": "session"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 7,
+	"fields": {
+		"app_label": "movies",
+		"model": "auditorium"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 8,
+	"fields": {
+		"app_label": "movies",
+		"model": "auditoriumseat"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 9,
+	"fields": {
+		"app_label": "movies",
+		"model": "movie"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 10,
+	"fields": {
+		"app_label": "movies",
+		"model": "movietime"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 11,
+	"fields": {
+		"app_label": "movies",
+		"model": "price"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 12,
+	"fields": {
+		"app_label": "movies",
+		"model": "screening"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 13,
+	"fields": {
+		"app_label": "movies",
+		"model": "seat"
+	}
+},
+{
+	"model": "contenttypes.contenttype",
+	"pk": 14,
+	"fields": {
+		"app_label": "movies",
+		"model": "ticket"
+	}
+},
+{
+	"model": "sessions.session",
+	"pk": "3q6uhrnf3etlwonawufmtwle8vabikn4",
+	"fields": {
+		"session_data": "OTA3MWU0ZGJkNjdkM2IzYTJiZTZmNmU1MzQxMmVlMjU5NGM5Y2NkNjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjOWU4ZjQwYjRjZDRhZWZkYzZkNmMyYTg2NGU5YzQ5NjMxYWNhYzc4In0=",
+		"expire_date": "2019-03-26T02:29:46.384Z"
+	}
+},
+{
+	"model": "sessions.session",
+	"pk": "ho7xmg2rixogtaty2fnfpzzjd4wsn7di",
+	"fields": {
+		"session_data": "OTA3MWU0ZGJkNjdkM2IzYTJiZTZmNmU1MzQxMmVlMjU5NGM5Y2NkNjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjOWU4ZjQwYjRjZDRhZWZkYzZkNmMyYTg2NGU5YzQ5NjMxYWNhYzc4In0=",
+		"expire_date": "2019-03-25T18:24:55.955Z"
+	}
+},
+{
+	"model": "sessions.session",
+	"pk": "ryb493p5iap568vrg34svbgol16qqamh",
+	"fields": {
+		"session_data": "OTA3MWU0ZGJkNjdkM2IzYTJiZTZmNmU1MzQxMmVlMjU5NGM5Y2NkNjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjOWU4ZjQwYjRjZDRhZWZkYzZkNmMyYTg2NGU5YzQ5NjMxYWNhYzc4In0=",
+		"expire_date": "2019-04-11T00:48:34.653Z"
+	}
+},
+{
+	"model": "sessions.session",
+	"pk": "weutgj2yfubsa9tqqurnxwp2riad4qcs",
+	"fields": {
+		"session_data": "OTA3MWU0ZGJkNjdkM2IzYTJiZTZmNmU1MzQxMmVlMjU5NGM5Y2NkNjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjOWU4ZjQwYjRjZDRhZWZkYzZkNmMyYTg2NGU5YzQ5NjMxYWNhYzc4In0=",
+		"expire_date": "2019-04-03T22:47:55.979Z"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 1,
+	"fields": {
+		"name": "Can add log entry",
+		"content_type": 1,
+		"codename": "add_logentry"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 2,
+	"fields": {
+		"name": "Can change log entry",
+		"content_type": 1,
+		"codename": "change_logentry"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 3,
+	"fields": {
+		"name": "Can delete log entry",
+		"content_type": 1,
+		"codename": "delete_logentry"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 4,
+	"fields": {
+		"name": "Can view log entry",
+		"content_type": 1,
+		"codename": "view_logentry"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 5,
+	"fields": {
+		"name": "Can add permission",
+		"content_type": 2,
+		"codename": "add_permission"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 6,
+	"fields": {
+		"name": "Can change permission",
+		"content_type": 2,
+		"codename": "change_permission"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 7,
+	"fields": {
+		"name": "Can delete permission",
+		"content_type": 2,
+		"codename": "delete_permission"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 8,
+	"fields": {
+		"name": "Can view permission",
+		"content_type": 2,
+		"codename": "view_permission"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 9,
+	"fields": {
+		"name": "Can add group",
+		"content_type": 3,
+		"codename": "add_group"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 10,
+	"fields": {
+		"name": "Can change group",
+		"content_type": 3,
+		"codename": "change_group"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 11,
+	"fields": {
+		"name": "Can delete group",
+		"content_type": 3,
+		"codename": "delete_group"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 12,
+	"fields": {
+		"name": "Can view group",
+		"content_type": 3,
+		"codename": "view_group"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 13,
+	"fields": {
+		"name": "Can add user",
+		"content_type": 4,
+		"codename": "add_user"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 14,
+	"fields": {
+		"name": "Can change user",
+		"content_type": 4,
+		"codename": "change_user"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 15,
+	"fields": {
+		"name": "Can delete user",
+		"content_type": 4,
+		"codename": "delete_user"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 16,
+	"fields": {
+		"name": "Can view user",
+		"content_type": 4,
+		"codename": "view_user"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 17,
+	"fields": {
+		"name": "Can add content type",
+		"content_type": 5,
+		"codename": "add_contenttype"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 18,
+	"fields": {
+		"name": "Can change content type",
+		"content_type": 5,
+		"codename": "change_contenttype"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 19,
+	"fields": {
+		"name": "Can delete content type",
+		"content_type": 5,
+		"codename": "delete_contenttype"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 20,
+	"fields": {
+		"name": "Can view content type",
+		"content_type": 5,
+		"codename": "view_contenttype"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 21,
+	"fields": {
+		"name": "Can add session",
+		"content_type": 6,
+		"codename": "add_session"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 22,
+	"fields": {
+		"name": "Can change session",
+		"content_type": 6,
+		"codename": "change_session"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 23,
+	"fields": {
+		"name": "Can delete session",
+		"content_type": 6,
+		"codename": "delete_session"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 24,
+	"fields": {
+		"name": "Can view session",
+		"content_type": 6,
+		"codename": "view_session"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 25,
+	"fields": {
+		"name": "Can add auditorium",
+		"content_type": 7,
+		"codename": "add_auditorium"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 26,
+	"fields": {
+		"name": "Can change auditorium",
+		"content_type": 7,
+		"codename": "change_auditorium"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 27,
+	"fields": {
+		"name": "Can delete auditorium",
+		"content_type": 7,
+		"codename": "delete_auditorium"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 28,
+	"fields": {
+		"name": "Can view auditorium",
+		"content_type": 7,
+		"codename": "view_auditorium"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 29,
+	"fields": {
+		"name": "Can add auditorium seat",
+		"content_type": 8,
+		"codename": "add_auditoriumseat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 30,
+	"fields": {
+		"name": "Can change auditorium seat",
+		"content_type": 8,
+		"codename": "change_auditoriumseat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 31,
+	"fields": {
+		"name": "Can delete auditorium seat",
+		"content_type": 8,
+		"codename": "delete_auditoriumseat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 32,
+	"fields": {
+		"name": "Can view auditorium seat",
+		"content_type": 8,
+		"codename": "view_auditoriumseat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 33,
+	"fields": {
+		"name": "Can add movie",
+		"content_type": 9,
+		"codename": "add_movie"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 34,
+	"fields": {
+		"name": "Can change movie",
+		"content_type": 9,
+		"codename": "change_movie"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 35,
+	"fields": {
+		"name": "Can delete movie",
+		"content_type": 9,
+		"codename": "delete_movie"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 36,
+	"fields": {
+		"name": "Can view movie",
+		"content_type": 9,
+		"codename": "view_movie"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 37,
+	"fields": {
+		"name": "Can add movie time",
+		"content_type": 10,
+		"codename": "add_movietime"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 38,
+	"fields": {
+		"name": "Can change movie time",
+		"content_type": 10,
+		"codename": "change_movietime"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 39,
+	"fields": {
+		"name": "Can delete movie time",
+		"content_type": 10,
+		"codename": "delete_movietime"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 40,
+	"fields": {
+		"name": "Can view movie time",
+		"content_type": 10,
+		"codename": "view_movietime"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 41,
+	"fields": {
+		"name": "Can add price",
+		"content_type": 11,
+		"codename": "add_price"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 42,
+	"fields": {
+		"name": "Can change price",
+		"content_type": 11,
+		"codename": "change_price"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 43,
+	"fields": {
+		"name": "Can delete price",
+		"content_type": 11,
+		"codename": "delete_price"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 44,
+	"fields": {
+		"name": "Can view price",
+		"content_type": 11,
+		"codename": "view_price"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 45,
+	"fields": {
+		"name": "Can add screening",
+		"content_type": 12,
+		"codename": "add_screening"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 46,
+	"fields": {
+		"name": "Can change screening",
+		"content_type": 12,
+		"codename": "change_screening"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 47,
+	"fields": {
+		"name": "Can delete screening",
+		"content_type": 12,
+		"codename": "delete_screening"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 48,
+	"fields": {
+		"name": "Can view screening",
+		"content_type": 12,
+		"codename": "view_screening"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 49,
+	"fields": {
+		"name": "Can add seat",
+		"content_type": 13,
+		"codename": "add_seat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 50,
+	"fields": {
+		"name": "Can change seat",
+		"content_type": 13,
+		"codename": "change_seat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 51,
+	"fields": {
+		"name": "Can delete seat",
+		"content_type": 13,
+		"codename": "delete_seat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 52,
+	"fields": {
+		"name": "Can view seat",
+		"content_type": 13,
+		"codename": "view_seat"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 53,
+	"fields": {
+		"name": "Can add ticket",
+		"content_type": 14,
+		"codename": "add_ticket"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 54,
+	"fields": {
+		"name": "Can change ticket",
+		"content_type": 14,
+		"codename": "change_ticket"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 55,
+	"fields": {
+		"name": "Can delete ticket",
+		"content_type": 14,
+		"codename": "delete_ticket"
+	}
+},
+{
+	"model": "auth.permission",
+	"pk": 56,
+	"fields": {
+		"name": "Can view ticket",
+		"content_type": 14,
+		"codename": "view_ticket"
+	}
+},
+{
+	"model": "auth.user",
+	"pk": 1,
+	"fields": {
+		"password": "pbkdf2_sha256$120000$vmxhrEGCZBVP$D/UPYpkaZe/greEZ4nsZobNDnAfZqh2HPQPxIKd8M5o=",
+		"last_login": "2019-03-28T00:48:34.644Z",
+		"is_superuser": true,
+		"username": "admin",
+		"first_name": "",
+		"last_name": "",
+		"email": "tromero@my.waketech.edu",
+		"is_staff": true,
+		"is_active": true,
+		"date_joined": "2019-03-10T19:15:44.533Z",
+		"groups": [],
+		"user_permissions": []
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 1,
+	"fields": {
+		"action_time": "2019-03-10T19:17:29.203Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 2,
+	"fields": {
+		"action_time": "2019-03-10T19:18:27.058Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "11",
+		"object_repr": "Bohemian Rhapsody",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 3,
+	"fields": {
+		"action_time": "2019-03-10T19:19:16.052Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "10",
+		"object_repr": "How to Train Your Dragon: The Hidden World",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 4,
+	"fields": {
+		"action_time": "2019-03-10T19:21:37.630Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "10",
+		"object_repr": "How to Train Your Dragon: The Hidden World",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 5,
+	"fields": {
+		"action_time": "2019-03-10T19:22:41.183Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "10",
+		"object_repr": "How to Train Your Dragon: The Hidden World",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 6,
+	"fields": {
+		"action_time": "2019-03-10T19:23:00.970Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "11",
+		"object_repr": "Bohemian Rhapsody",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 7,
+	"fields": {
+		"action_time": "2019-03-10T19:23:25.860Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 8,
+	"fields": {
+		"action_time": "2019-03-10T19:23:42.461Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 9,
+	"fields": {
+		"action_time": "2019-03-10T19:27:07.622Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 10,
+	"fields": {
+		"action_time": "2019-03-10T19:28:53.824Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "10",
+		"object_repr": "How to Train Your Dragon: The Hidden World",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 11,
+	"fields": {
+		"action_time": "2019-03-10T19:29:12.280Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "9",
+		"object_repr": "Glass",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 12,
+	"fields": {
+		"action_time": "2019-03-10T19:29:41.786Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "8",
+		"object_repr": "The Upside",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 13,
+	"fields": {
+		"action_time": "2019-03-10T19:30:06.625Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "7",
+		"object_repr": "Cold Pursuit",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 14,
+	"fields": {
+		"action_time": "2019-03-10T19:32:24.431Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 15,
+	"fields": {
+		"action_time": "2019-03-10T19:32:42.010Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 16,
+	"fields": {
+		"action_time": "2019-03-10T19:32:53.916Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "12",
+		"object_repr": "Green Book",
+		"action_flag": 2,
+		"change_message": "[]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 17,
+	"fields": {
+		"action_time": "2019-03-10T19:33:08.489Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "11",
+		"object_repr": "Bohemian Rhapsody",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 18,
+	"fields": {
+		"action_time": "2019-03-10T19:33:34.377Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "10",
+		"object_repr": "How to Train Your Dragon: The Hidden World",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 19,
+	"fields": {
+		"action_time": "2019-03-10T19:33:41.970Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "10",
+		"object_repr": "How to Train Your Dragon: The Hidden World",
+		"action_flag": 2,
+		"change_message": "[]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 20,
+	"fields": {
+		"action_time": "2019-03-10T19:33:56.345Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "9",
+		"object_repr": "Glass",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 21,
+	"fields": {
+		"action_time": "2019-03-10T19:34:11.349Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "8",
+		"object_repr": "The Upside",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 22,
+	"fields": {
+		"action_time": "2019-03-10T19:34:39.664Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "7",
+		"object_repr": "Cold Pursuit",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 23,
+	"fields": {
+		"action_time": "2019-03-10T19:35:05.670Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "6",
+		"object_repr": "Happy Death Day 2U",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 24,
+	"fields": {
+		"action_time": "2019-03-10T19:35:35.855Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "5",
+		"object_repr": "What Men Want",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 25,
+	"fields": {
+		"action_time": "2019-03-10T19:36:13.958Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "4",
+		"object_repr": "Isn't It Romantic",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 26,
+	"fields": {
+		"action_time": "2019-03-10T19:36:41.892Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "3",
+		"object_repr": "Fighting With My Family",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 27,
+	"fields": {
+		"action_time": "2019-03-10T19:36:58.413Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "2",
+		"object_repr": "The LEGO Movie 2: The Second Part",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 28,
+	"fields": {
+		"action_time": "2019-03-10T19:37:18.990Z",
+		"user": 1,
+		"content_type": 9,
+		"object_id": "1",
+		"object_repr": "Alita:Battle Angel",
+		"action_flag": 2,
+		"change_message": "[{\"changed\": {\"fields\": [\"movie_poster_image\"]}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 29,
+	"fields": {
+		"action_time": "2019-03-10T19:41:39.305Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "1",
+		"object_repr": "00:00:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 30,
+	"fields": {
+		"action_time": "2019-03-10T19:41:45.017Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "2",
+		"object_repr": "12:00:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 31,
+	"fields": {
+		"action_time": "2019-03-10T19:41:49.192Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "3",
+		"object_repr": "18:00:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 32,
+	"fields": {
+		"action_time": "2019-03-10T19:42:07.971Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "4",
+		"object_repr": "20:00:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 33,
+	"fields": {
+		"action_time": "2019-03-10T19:42:25.332Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "5",
+		"object_repr": "20:00:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 34,
+	"fields": {
+		"action_time": "2019-03-10T19:42:52.457Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "5",
+		"object_repr": "20:00:00",
+		"action_flag": 3,
+		"change_message": ""
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 35,
+	"fields": {
+		"action_time": "2019-03-10T19:43:52.621Z",
+		"user": 1,
+		"content_type": 10,
+		"object_id": "6",
+		"object_repr": "17:15:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 36,
+	"fields": {
+		"action_time": "2019-03-10T19:44:46.742Z",
+		"user": 1,
+		"content_type": 12,
+		"object_id": "1",
+		"object_repr": "Cold Pursuit 20:00:00",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 37,
+	"fields": {
+		"action_time": "2019-03-10T19:49:09.056Z",
+		"user": 1,
+		"content_type": 4,
+		"object_id": "2",
+		"object_repr": "romero",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 38,
+	"fields": {
+		"action_time": "2019-03-10T19:51:06.655Z",
+		"user": 1,
+		"content_type": 4,
+		"object_id": "2",
+		"object_repr": "romero",
+		"action_flag": 3,
+		"change_message": ""
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 39,
+	"fields": {
+		"action_time": "2019-03-28T01:35:17.417Z",
+		"user": 1,
+		"content_type": 14,
+		"object_id": "1",
+		"object_repr": "Ticket object (1)",
+		"action_flag": 1,
+		"change_message": "[{\"added\": {}}]"
+	}
+},
+{
+	"model": "admin.logentry",
+	"pk": 40,
+	"fields": {
+		"action_time": "2019-03-28T01:35:29.138Z",
+		"user": 1,
+		"content_type": 14,
+		"object_id": "1",
+		"object_repr": "Ticket object (1)",
+		"action_flag": 2,
+		"change_message": "[]"
+	}
+}]

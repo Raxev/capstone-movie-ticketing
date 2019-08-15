@@ -1,0 +1,177 @@
+
+body{
+  background: #FBFBFF;
+  font-size: 16;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #01BAEF; /*#373F51*/
+  border-radius: 0;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+ }
+
+.navbar-brand {
+  font-family: 'Rustico', sans-serif;
+  font-size: 1rem;
+  border-right: 1px solid black;
+  margin-right: 0;
+  padding-right: 14px; 
+  padding-top: 14px;
+}
+
+.navbar-nav ul {
+	/*margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	font-size: 0px;*/
+	text-align: right;
+}
+
+.navbar-nav > li {
+  display: inline-block;
+  color: white;
+  font-family: 'Genuine';
+  font-size: 0.8rem;
+  text-align: right;
+ 
+  
+  border-right: 1px solid black;
+  
+  padding: 9px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  transition: 0.3s;
+}
+
+
+.navbar-nav > li:hover {
+	background-color: black;
+}
+
+
+.collapse ul li a {
+  color: #FFFFFF;
+}
+
+
+
+.row {
+
+  
+}
+
+.column {
+ 
+
+}
+
+.page_description {
+	font-family: 'Genuine';
+	font-size: 5em;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	transition: 0.3s;
+	background-color: #0B4F6C;
+	color: white;
+}
+
+.page_description:hover {
+	background-color: black;
+}
+
+#movie_list2 {
+	float: left;
+	margin-top: 0px;
+	margin-left: 61px;
+}
+
+#poster_image {
+	padding: 5px;
+	width: 178px;
+	height: 283px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+#menu_image {
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+@media screen and (max-width: 575.5px) {
+	
+	.navbar-brand {
+		font-family: 'Rustico', sans-serif;
+		font-size: 1.5rem;
+		border-right: none;
+		margin: 0px;
+		margin-top: 5px;
+		padding-top: 10px;
+		padding-left: 0px;
+		padding-right: 10px; 
+	}
+
+  
+	.navbar-nav > li {	
+		margin: auto 0;
+		text-align: center;
+		border-right: none;
+		border-top: 1px solid black;
+		font-size: 1.3rem;
+		transition: 0.3s;
+	}
+	
+	
+	#movie_list2 {
+		padding: 0;
+		margin: 0;
+		width: auto;
+		height: auto;
+		text-align: center;
+	}
+	
+	#poster_image {
+		padding: 0;
+		margin: 5px 2px 2px 5px;
+	}
+	
+	#menu_container {
+		padding: 0;
+		margin: auto;
+		width: auto;
+		height: auto;
+	}
+	
+	#menu_image {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	
+	.page_description {
+	font-family: 'Genuine';
+	font-size: 1.5rem;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	text-align: center;
+	}
+	
+	.navbar-dark .navbar-toggler-icon {
+
+		
+		margin-bottom: 5px;
+		margin-left: 5px;
+		margin-right: 5px;
+		margin-top: 5px;
+		background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+	}
+}
+

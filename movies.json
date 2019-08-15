@@ -1,0 +1,157 @@
+[{
+	"model": "movies.movie",
+	"pk": 1,
+	"fields": {
+		"title": "Alita:Battle Angel",
+		"movie_poster_image": "posters/AlitaBattleAngel.jpg",
+		"release_date": "2019-02-14",
+		"director": "Robert Rodriguez",
+		"rating": "PG-13",
+		"genre": "Science Fiction, Adventure, Action, Fantasy",
+		"description": "Set several centuries in the future, the abandoned Alita is found in the scrapyard of Iron City by Ido, a compassionate cyber-doctor who takes the unconscious cyborg Alita to his clinic. When Alita awakens, she has no memory of who she is, nor does she have any recognition of the world she finds herself in. As Alita learns to navigate her new life and the treacherous streets of Iron City, Ido tries to shield her from her mysterious past."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 2,
+	"fields": {
+		"title": "The LEGO Movie 2: The Second Part",
+		"movie_poster_image": "posters/TheLEGOMovie2TheSecondPart.jpg",
+		"release_date": "2019-02-08",
+		"director": "Mike Mitchell",
+		"rating": "PG",
+		"genre": "Children, Comedy, Adventure, Action, Animated",
+		"description": "The citizens of Bricksburg face a dangerous new threat when LEGO DUPLO invaders from outer space start to wreck everything in their path. The battle to defeat the enemy and restore harmony to the LEGO universe takes Emmet, Lucy, Batman and the rest of their friends to faraway, unexplored worlds that test their courage and creativity."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 3,
+	"fields": {
+		"title": "Fighting With My Family",
+		"movie_poster_image": "posters/FightingWithMyFamily.jpg",
+		"release_date": "2019-02-22",
+		"director": "Stephen Merchant",
+		"rating": "PG-13",
+		"genre": "Comedy",
+		"description": "Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige's journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 4,
+	"fields": {
+		"title": "Isn't It Romantic",
+		"movie_poster_image": "posters/IsntItRomantic.jpg",
+		"release_date": "2019-02-13",
+		"director": "Todd Strauss-Schulson",
+		"rating": "PG-13",
+		"genre": "Romantic Comedy, Fantasy",
+		"description": "Natalie is a New York architect who works hard to get noticed at her job, but is more likely to deliver coffee and bagels than design the city's next skyscraper. Things go from bad to weird when she gets knocked unconscious during a subway mugging and magically wakes up to find herself in an alternate universe. Always cynical about love, Natalie's worst nightmare soon comes true when she suddenly discovers that she's playing the leading lady in a real-life romantic comedy."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 5,
+	"fields": {
+		"title": "What Men Want",
+		"movie_poster_image": "posters/WhatMenWant.jpg",
+		"release_date": "2019-02-08",
+		"director": "Adam ShankMan",
+		"rating": "R",
+		"genre": "Romantic Comedy, Fantasy",
+		"description": "Passed up for a well-deserved promotion, sports agent Ali Davis wonders what else she needs to do to succeed in a man's world. Hoping to find answers from a psychic, Ali drinks a weird concoction that suddenly allows her to hear what men are thinking. Using her newfound ability, Ali starts to turn the tables on her obnoxious male colleagues while racing to sign the next basketball superstar."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 6,
+	"fields": {
+		"title": "Happy Death Day 2U",
+		"movie_poster_image": "posters/HappyDeathDay2U.jpg",
+		"release_date": "2019-02-13",
+		"director": "Christopher Landon",
+		"rating": "PG-13",
+		"genre": "Horror, Thriller, Dark Comedy",
+		"description": "Stuck in a time loop, college student Tree Gelbman must die over and over again to save her friends from a psychotic masked killer."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 7,
+	"fields": {
+		"title": "Cold Pursuit",
+		"movie_poster_image": "posters/ColdPursuit.jpg",
+		"release_date": "2019-02-08",
+		"director": "Hans Petter Moland",
+		"rating": "R",
+		"genre": "Thriller, Dark Comedy",
+		"description": "Nels Coxman's quiet life as a snowplow driver comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge against a psychotic drug lord named Viking and his sleazy henchmen. Transformed from upstanding citizen to coldblooded vigilante, Coxman unwittingly sets off a chain of events that includes a kidnapping, a series of deadly misunderstandings and a turf war between Viking and a rival boss."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 8,
+	"fields": {
+		"title": "The Upside",
+		"movie_poster_image": "posters/TheUpside.jpg",
+		"release_date": "2019-01-11",
+		"director": "Neil Burger",
+		"rating": "PG-13",
+		"genre": "Comedy Drama",
+		"description": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom as Dell and Phillip rediscover the joy of living life to the fullest."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 9,
+	"fields": {
+		"title": "Glass",
+		"movie_poster_image": "posters/Glass.jpg",
+		"release_date": "2019-01-18",
+		"director": "M. Night Shyamalan",
+		"rating": "PG-13",
+		"genre": "Thriller",
+		"description": "David Dunn tries to stay one step ahead of the law while delivering vigilante justice on the streets of Philadelphia. His special talents soon put him on a collision course with the Beast -- the psychotic madman who has superhuman strength and 23 distinct personalities. Their epic showdown leads them to an encounter with the mysterious Elijah Price, the criminal mastermind who holds critical secrets for both men."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 10,
+	"fields": {
+		"title": "How to Train Your Dragon: The Hidden World",
+		"movie_poster_image": "posters/HowToTrainYourDragonTheHiddenWorld.jpg",
+		"release_date": "2019-02-22",
+		"director": "Dean DeBlois",
+		"rating": "PG",
+		"genre": "Children, Fantasy, Adventure, Comedy, Animated",
+		"description": "All seems well on the island of Berk as Vikings and dragons live together in peace and harmony. Now a Viking leader, Hiccup finds himself increasingly attracted to Astrid, while his beloved dragon Toothless meets an enchanting creature who captures his eye. When the evil Grimmel launches a devious plan to wipe out all the dragons, Hiccup must unite both clans to find Caldera -- a hidden land that holds the key to saving Toothless and his flying friends."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 11,
+	"fields": {
+		"title": "Bohemian Rhapsody",
+		"movie_poster_image": "posters/BohemianRhapsody.jpg",
+		"release_date": "2018-11-02",
+		"director": "Bryan Singer",
+		"rating": "PG-13",
+		"genre": "Biography, Historical Drama, Music",
+		"description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Surrounded by darker influences, Mercury decides to leave Queen years later to pursue a solo career. Diagnosed with AIDS in the 1980s, the flamboyant frontman reunites with the group for the benefit concert Live Aid -- leading the band in one of the greatest performances in rock history."
+	}
+},
+{
+	"model": "movies.movie",
+	"pk": 12,
+	"fields": {
+		"title": "Green Book",
+		"movie_poster_image": "posters/GreenBook.jpg",
+		"release_date": "2018-02-21",
+		"director": "Peter Farrelly",
+		"rating": "PG-13",
+		"genre": "Comedy Drama",
+		"description": "Dr. Don Shirley is a world-class African-American pianist who's about to embark on a concert tour in the Deep South in 1962. In need of a driver and protection, Shirley recruits Tony Lip, a tough-talking bouncer from an Italian-American neighborhood in the Bronx. Despite their differences, the two men soon develop an unexpected bond while confronting racism and danger in an era of segregation."
+	}
+}
+]

@@ -1,0 +1,22 @@
+{% extends 'movies/base.html' %}
+
+{% block body %}
+  {% if all_movies %} 
+	<div class="page_description">
+	  <h1>
+		<strong>Select a Movie</strong>
+	  </h1>
+	</div>
+    <div id="movie_list">
+	{% for movie in all_movies %}
+	  <div id="movie_list2">
+	    <a href= "{% url 'movies:movie_detail' movie.id%}"><img src="{{movie.movie_poster_image.url}}" id="poster_image"></a>
+	  </div>
+	{% endfor %}
+	</div>
+  {% else %}
+	<br>
+	
+    <h1> Oops... There are no movies to display! </h1>
+  {% endif %}
+{% endblock %}

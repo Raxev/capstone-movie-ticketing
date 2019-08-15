@@ -1,0 +1,55 @@
+{% extends 'movies/base.html' %}
+
+{% block title %}Find Us{% endblock %}
+
+{% block body %}
+<div class="page_description">
+		<h1><strong>Have Questions or Comments?</strong></h1>
+</div>
+<div class="container">
+    <br>
+	<p>You can get in touch with us via email at trianglecinema6p@my.waketech.edu</p>
+    
+	<p>To contact our support team directly, please call 919-987-6543.</p>
+
+    <p>We can't wait to hear from you!</p>
+</div>
+
+<!-- Google Map -->
+<div id="Find_Us" class="container">
+    <h2>We are located at</h2>
+    <p>9101 Fayetteville Road, Raleigh, NC</p>
+    <p>Directions to the theater below:</p>
+    <div class="mapouter">
+    <div class="gmap_canvas">
+        <iframe width="600"
+                height="500"
+                id="gmap_canvas"
+                src="https://maps.google.com/maps?q=9101%20fayetteville&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                frameborder="0"
+                scrolling="no"
+                marginheight="0"
+                marginwidth="0">
+        </iframe>
+    </div>
+    <style>
+        .mapouter {
+            position:relative;
+            text-align:right;
+            height:500px;
+            width:600px;
+        }
+
+        .gmap_canvas {
+            overflow:hidden;
+            background:none!important;
+            height:500px;
+            width:600px;
+        }
+    </style>
+</div>
+</div><br>
+<div class="container">
+    <p>Visit us anytime!</p>
+</div><br>
+{% endblock %}

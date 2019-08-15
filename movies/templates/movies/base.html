@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}Triangle Cinema - Triangle Ticketing{% endblock %}</title>
+  <!-- loads path to static files -->
+  {% load staticfiles %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href ="{% static 'movies/style.css' %}">
+    <!-- jquery and javascript bootstrap -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Rakkas" rel="stylesheet">
+    <!-- icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-sm navbar-dark">
+    <div class="container-fluid">
+      <!-- Header -->
+      <div class="navbar-header">
+
+        <button type ="button" class="navbar-toggler" data-toggle="collapse" data-target="#top-navbar" >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="{% url 'movies:index' %}">Triangle Ticketing</a>
+      </div>
+      <!--Nav Items Movies, Food, Promotions, About Us, Find Us  -->
+      <div class="collapse navbar-collapse" id ="top-navbar">
+        <ul class="nav navbar-nav">
+        <li class="active">
+          <a href="{% url 'movies:index' %}">
+            <span class="fas fa-film aria-hidden="true"></span>&nbsp;
+            Movies
+          </a>
+        </li>
+        <li class="">
+          <a href="{% url 'movies:menu' %}">
+            <span class="fas fa-hamburger aria-hidden="true"></span>&nbsp;
+            Menu
+          </a>
+        </li>
+        <li class="">
+          <a href="{% url 'movies:promotions' %}">
+            <span class="fas fa-calendar-week aria-hidden="true"></span>&nbsp;
+            Promotions
+          </a>
+        </li>
+        <li class="">
+          <a href="{% url 'movies:about_us' %}">
+            <span class="fas fa-address-card aria-hidden="true"></span>&nbsp;
+            About Us
+          </a>
+        </li>
+        <li class="">
+          <a href="{% url 'movies:contact_us' %}">
+            <span class="fas fa-map-marker-alt aria-hidden="true"></span>&nbsp;
+            Find Us
+          </a>
+        </li>
+  </ul>
+      </div>
+    </div>
+  </nav>
+  {% block body %}
+  {% endblock %}
+</body>
+</html>

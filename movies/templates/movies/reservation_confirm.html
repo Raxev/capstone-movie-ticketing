@@ -1,0 +1,24 @@
+{% extends 'movies/base.html' %}
+{% block title %}Confirm Reservation{% endblock %}
+
+{% block body %}
+<div class="page_description">
+	<h1><strong>Confirmation Page</strong></h1>
+</div>
+<div class="container">
+
+<div class="movie-info">
+
+<table class="movie-info" border="2" cellpadding="8">
+    <tr>
+	<br>
+		<td>
+			<h1>Reservation Confirmed!</h1>
+			<h5>Thank you and enjoy your movie!</h5>        
+		</td>  
+    </tr>
+</table> 
+
+<button><a href= "{% url 'movies:index' %}">Browse More Movies!</a></button>
+
+{% endblock %}

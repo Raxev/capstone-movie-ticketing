@@ -1,0 +1,43 @@
+[
+
+{
+	"model": "movies.price",
+	"pk": 1,
+	"fields": {
+		"type": "Child",
+		"price": "5.00"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 2,
+	"fields": {
+		"type": "Adult",
+		"price": "10.00"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 3,
+	"fields": {
+		"type": "Senior",
+		"price": "5.50"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 4,
+	"fields": {
+		"type": "Student",
+		"price": "8.00"
+	}
+},
+{
+	"model": "movies.price",
+	"pk": 5,
+	"fields": {
+		"type": "Matinee",
+		"price": "4.50"
+	}
+}
+]

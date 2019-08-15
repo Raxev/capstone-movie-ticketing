@@ -1,0 +1,49 @@
+{% extends 'movies/base.html' %}
+{% block title %}Movie Details{% endblock %}
+
+{% block body %}
+
+<div class="page_description">
+	  <h1>
+		<strong>Movie Details</strong>
+	  </h1>
+	</div>
+<div class="container">
+
+<div class="movie-info">
+<br>
+  <dl>
+    <table class="movie-info" border="2" cellpadding="8">
+      <caption></caption>
+      <tr>
+        <td><h4><img src="{{movie.movie_poster_image.url}}" height = "420"></h4></td>
+        <td><h4><strong>{{movie.title}}</strong></h4>
+			<p> {{ movie.description}} </p>
+			<p> {{movie.genre}} </p>
+			<p> {{movie.rating}} </p>
+			<p> {{movie.release_date}} </p>
+		</td>  
+      </tr>
+    </table> 
+  </dl>
+
+{% if error_message %}
+  <p><strong>{{error_message}}</strong></p>
+{% endif %}
+
+<div class="page_description">
+	  <h1>
+		<strong>Reserve Tickets</strong>
+	  </h1>
+	</div>
+<form method="post" novalidate>
+  {% csrf_token %}
+  <table border="1">
+    {{ form }}
+  </table>
+  <button type="submit">Submit</button>
+</form>
+  <br>
+</div>
+
+{% endblock %}
